@@ -1,0 +1,29 @@
+{
+  "name": "make-img-divisible-by-n",
+  "version": "1.0.0",
+  "description": "Takes an image and expands it to be divisible by any integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mcwhittemore/make-img-divisible-by-n.git"
+  },
+  "keywords": [
+    "ndarray",
+    "image",
+    "expand",
+    "resize",
+    "divide"
+  ],
+  "author": "Matthew Chase Whittemore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcwhittemore/make-img-divisible-by-n/issues"
+  },
+  "homepage": "https://github.com/mcwhittemore/make-img-divisible-by-n#readme",
+  "dependencies": {
+    "ndarray": "^1.0.18"
+  }
+}
